@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Cairo 🐺 </h1>
-  <h2> ⚡ Blazing ⚡ fast ⚡ compiler for Cairo, written in 🦀 Rust 🦀 </h2>
+  <h2> ⚡ Blazing ⚡ Fast ⚡ Compiler for Cairo, Written in 🦀 Rust 🦀 </h2>
   <img src="./resources/img/cairo-logo-square.png" height="200" width="200">
   <br />
   <a href="https://github.com/starkware-libs/cairo/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
